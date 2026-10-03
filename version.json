@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.5.7",
-  "apkUrl": "https://github.com/Maxi8750/MaxAnime-Updates/releases/download/v0.5.7/MaxAnime-0.5.7.apk",
-  "changelog": "Prueba de funcionamiento"
+  "versionCode": 16,
+  "versionName": "0.5.6",
+  "apkUrl": "https://github.com/Maxi8750/MaxAnime-Updates/releases/download/v0.5.6/MaxAnime-0.5.6.apk",
+  "changelog": "Migración del sistema de actualizaciones a GitHub."
 }
